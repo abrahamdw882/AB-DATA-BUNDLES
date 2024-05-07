@@ -1,0 +1,11 @@
+  =>  Name    : DarkPan - Bootstrap 5 Admin Template
+
+  =>  My Link    : https://ab-anime-streamer.pages.dev
+
+  =>  My License : @license (or read the LICENSE.txt file)
+
+  =>   Author  : AB-dev
+
+  =>  Author Website   : wait
+
+  =>  About HTML ab data bundles : My website is going to help people make purchase to a lot of data
